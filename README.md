@@ -18,13 +18,13 @@ O projeto procura:
 ## Metodologia
 Seguindo as diretrizes do projeto, adotamos o seguinte workflow:
 
-**Coleta de dado**s – Uso do dataset Sentiment140 para análise de sentimentos.
+**Recolha de dado**s – Uso do dataset Sentiment140 para análise de sentimentos.
 
 **Pré-processamento** – Tokenização, remoção de stopwords e lematização.
 
 **Modelo** – Implementação de uma rede neural LSTM bidirecional.
 
-**Treinamento e Avaliação** – Divisão dos dados (Hold-out split), uso da métrica de acurácia.
+**Treino e Avaliação** – Divisão dos dados (Hold-out split), uso da métrica de acurácia.
 
 **Aprimoramento do modelo** – Uso de Dropout, tuning de hiperparâmetros, regularização.
 
