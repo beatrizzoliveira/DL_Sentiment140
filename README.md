@@ -53,19 +53,14 @@ Criar um modelo capaz de classificar tweets como positivos ou negativos, auxilia
 O modelo LSTM implementado apresenta um bom desempenho na classificação de sentimentos em tweets e pode ser aprimorado com mais dados e ajustes nos hiperparâmetros. Ele pode ser aplicado em diversas áreas, como monitoramento de redes sociais e análise de feedbacks.
 
 ## Como Executar
-1. Instale as dependências:
+1. Instalar as dependências:
    ```bash
    pip install -r requirements.txt
    ```
-2. Execute o notebook:
+2. Executar o notebook:
    ```bash
    jupyter notebook DL_Sentiment140.ipynb
    ```
-3. Treine e avalie o modelo.
+3. Treinar e avaliar o modelo.
 
-## Contribuição
-Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias.
-
-## Licença
-Este projeto é distribuído sob a licença MIT.
 
